@@ -1,0 +1,22 @@
+First we will learn to create a button .
+
+</p> <p class="btn btn-(colorname)">
+
+Now severale color are available to us :
+-primary (blue)
+-info (cyan)
+-success (green)
+-warning (orange)
+-danger (red)
+-inverse (black)
+Example:
+
+</p> <p class="btn btn-primary">
+
+Now we want to write in these button .
+Example : here is a button we redirect to another site .
+
+<a href="http://www.youtube.com/user/TheSmopik" class="btn btn-success(or another color)"<My youtube channel</a>
+
+Don't forget </a> for finish the message .
+In the second post we will learn how to insert a picture on your overcast network profile .
